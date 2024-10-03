@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIH4NUxHVQXbHNTOZcp8zlA984JbhHfcS0n4AMHZIFLsXj6dXijeE/a9SYEX4DLY+C/uK8QnwPf3PNFu73kSHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhanu\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",
+    "C:\\Users\\dhanu\\.nuget\\packages\\flurl.http\\4.0.2\\flurl.http.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

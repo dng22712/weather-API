@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5418D7E-F637-4150-812E-29281094D4BA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T14:56:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Models\\WeatherData.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:59:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:44:54.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:23:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:06:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T13:47:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:38:05.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T13:44:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T13:49:19.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\weather.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\weather.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|c:\\users\\dhanu\\onedrive\\desktop\\insurwave\\weather-api\\api\\weather\\weather\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4F465-4169-4C13-885B-31F1DAFECFE4}|Weather\\Weather.csproj|solutionrelative:weather\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Weather\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Weather\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T15:05:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.http",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Weather.http",
+              "RelativeDocumentMoniker": "Weather\\Weather.http",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Weather.http",
+              "RelativeToolTip": "Weather\\Weather.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T15:03:36.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "Weather\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "Weather\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Weather\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Weather\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:02:54.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Weather\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Weather\\Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:02:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Weather\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Weather\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\appsettings.json",
+              "RelativeDocumentMoniker": "Weather\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\appsettings.json",
+              "RelativeToolTip": "Weather\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T14:58:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Program.cs",
+              "RelativeDocumentMoniker": "Weather\\Program.cs",
+              "ToolTip": "C:\\Users\\dhanu\\OneDrive\\Desktop\\insurwave\\weather-api\\api\\Weather\\Weather\\Program.cs",
+              "RelativeToolTip": "Weather\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:50.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
